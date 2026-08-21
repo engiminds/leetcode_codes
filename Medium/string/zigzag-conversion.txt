@@ -1,0 +1,10 @@
+        string result;
+
+        for (string row : rows) {
+            result += row;
+        }
+
+        return result;
+    }
+};
+
