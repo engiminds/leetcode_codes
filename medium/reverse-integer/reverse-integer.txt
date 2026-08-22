@@ -1,0 +1,10 @@
+            x //= 10
+
+            # Check overflow before: rev = rev * 10 + digit
+            if rev > (INT_MAX - digit) // 10:
+                return 0
+
+            rev = rev * 10 + digit
+
+        return sign * rev
+
