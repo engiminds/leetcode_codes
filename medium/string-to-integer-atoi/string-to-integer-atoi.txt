@@ -1,0 +1,11 @@
+        while (i < n && isdigit(s[i])) {
+            int digit = s[i] - '0';
+
+
+        // 3. Read digits
+        long long num = 0;
+        }
+
+            i++;
+        else if (i < n && s[i] == '+') {
+        } 
