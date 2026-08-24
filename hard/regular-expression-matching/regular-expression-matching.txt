@@ -1,0 +1,10 @@
+                    if (prev == '.' || prev == sChar) {
+                        dp[i][j] = dp[i][j] || dp[i - 1][j];
+                    }
+                }
+            }
+        }
+
+        return dp[m][n];
+    }
+}
