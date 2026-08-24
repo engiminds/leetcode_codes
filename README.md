@@ -4,7 +4,7 @@ This repository contains my solutions to LeetCode problems, organized by difficu
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 16
+- **Total Problems Solved:** 17
 - **Easy:** 0
 - **Medium:** 0
 - **Hard:** 0
@@ -29,4 +29,4 @@ leetcode-solutions/
 
 ---
 
-*Last updated: 2026-08-22*
+*Last updated: 2026-08-24*
