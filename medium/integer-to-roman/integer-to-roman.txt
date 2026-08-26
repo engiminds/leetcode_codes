@@ -1,0 +1,10 @@
+            while (num >= value) {
+                ans += symbol;
+                num -= value;
+            }
+        }
+
+        return ans;
+    }
+};
+
