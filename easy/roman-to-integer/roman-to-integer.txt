@@ -1,0 +1,10 @@
+                ans -= value[s[i]];
+            } else {
+                ans += value[s[i]];
+            }
+        }
+
+        return ans;
+    }
+};
+
