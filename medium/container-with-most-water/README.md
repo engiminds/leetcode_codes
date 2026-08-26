@@ -1,10 +1,10 @@
 # N/A. container-with-most-water
 
-> 🟡 Medium • [LeetCode](https://leetcode.com/problems/container-with-most-water/submissions/2120384123/) • Solved on 26/8/2026
+> 🟡 Medium • [LeetCode](https://leetcode.com/problems/container-with-most-water/submissions/2120390421/) • Solved on 26/8/2026
 
 ## Problem Description
 
-*Problem description not available. Please refer to the [LeetCode problem page](https://leetcode.com/problems/container-with-most-water/submissions/2120384123/) for the full description.*
+*Problem description not available. Please refer to the [LeetCode problem page](https://leetcode.com/problems/container-with-most-water/submissions/2120390421/) for the full description.*
 
 ## Solution Overview
 
@@ -38,4 +38,4 @@ This solution is implemented in **chooseatype**.
 - **Topics:** Array, Two Pointers, Greedy
 - **Language:** chooseatype
 - **Solution File:** `container-with-most-water.txt`
-- **LeetCode URL:** https://leetcode.com/problems/container-with-most-water/submissions/2120384123/
+- **LeetCode URL:** https://leetcode.com/problems/container-with-most-water/submissions/2120390421/
